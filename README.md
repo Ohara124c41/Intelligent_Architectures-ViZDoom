@@ -1,3 +1,23 @@
+# Intelligent Architectures - Bio-Inspired Neural Networks
+The first portion of the README is the report submitted for a course at TU/e. The second portion is to build and replicate the project based on the official source.
+
+![image1](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-01.jpg?raw=true)
+![image2](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-02.jpg?raw=true)
+![image3](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-03.jpg?raw=true)
+![image4](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-04.jpg?raw=true)
+![image5](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-05.jpg?raw=true)
+![image6](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-06.jpg?raw=true)
+![image7](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-07.jpg?raw=true)
+![image8](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-08.jpg?raw=true)
+![image9](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-09.jpg?raw=true)
+![image10](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-10.jpg?raw=true)
+![image11](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-11.jpg?raw=true)
+![image12](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-12.jpg?raw=true)
+![image13](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-13.jpg?raw=true)
+![image14](https://github.com/Ohara124c41/Intelligent_Architectures-ViZDoom/blob/master/doc/images/5LIL0-Ohara-Capstone-14.jpg?raw=true)
+
+---
+
 # ViZDoom [![Build Status](https://travis-ci.org/mwydmuch/ViZDoom.svg?branch=master)](https://travis-ci.org/mwydmuch/ViZDoom)
 [http://vizdoom.cs.put.edu.pl](http://vizdoom.cs.put.edu.pl)
 
